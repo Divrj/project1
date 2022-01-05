@@ -2,14 +2,19 @@
 <head>
 <title>DevOps Course Curriculum</title>
 </head>
-<body>
+<body bgcolor="white">
 <h1>DevOps Course Curriculum</h1>
 <ul>
 <li>Git</li>
 <li>Linux</li>
 <li>Shell Scripting</li>
 <li>Unix</li>
-<li>
+<li>jenkins</li>
+<li>Nexus</li>
+<li>Sonarqube</li>
+<li>Hadoop</li>
+<li>Spark</li>
+<li>Scala</li>
 </ul>
 </body>
 </html>
